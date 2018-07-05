@@ -20,11 +20,17 @@ Amplion applies a natural language processing pipeline to clinical trial documen
 ### **Existing Pipeline**
 ![Existing Pipeline](https://github.com/HelingZ7/Insight_DE_Sabrage/blob/master/docs/Existing_pipeline.jpg?raw=true)
 
+
+
 ### **New Pipeline - all information in one place for easier management**
 ![New Pipeline](https://github.com/HelingZ7/Insight_DE_Sabrage/blob/master/docs/New_pipeline_only.jpg?raw=true)
 
+
+
 ### **Tracking Document, Model and target-synonyms in the new pipeline**
 ![New Pipeline with Schema](https://github.com/HelingZ7/Insight_DE_Sabrage/blob/master/docs/New_pipeline.jpg?raw=true)
+
+
 
 ## Descrption of Selected Scripts
 #### The python scripts uploaded are a part of an existing priviate repo of Amplion. 
